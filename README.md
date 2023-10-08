@@ -54,6 +54,9 @@ With features like synchronized dual graphs, real-time cinematic playback, and c
 Gratitude goes out to all team members for their valuable contributions to this project.
 
 <div align="left">
+  <a href="https://github.com/hazemzakariasaad">
+    <img src="https://github.com/hazemzakariasaad.png" width="100px" alt="@hazemzakariasaad">
+  </a>
   <a href="https://github.com/raghdaneiazyy6">
     <img src="https://github.com/raghdaneiazyy6.png" width="100px" alt="@raghdaneiazy6">
   </a>
