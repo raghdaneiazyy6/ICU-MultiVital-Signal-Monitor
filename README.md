@@ -45,10 +45,6 @@ With features like synchronized dual graphs, real-time cinematic playback, and c
 
 - Construct professional PDF reports with snapshots and data statistics.
 
-## Installation
-
-## Getting Started
-
 ## Contributors
 
 Gratitude goes out to all team members for their valuable contributions to this project.
