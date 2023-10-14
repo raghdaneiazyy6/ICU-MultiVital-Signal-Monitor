@@ -60,9 +60,6 @@ Gratitude goes out to all team members for their valuable contributions to this 
   <a href="https://github.com/raghdaneiazyy6">
     <img src="https://github.com/raghdaneiazyy6.png" width="100px" alt="@raghdaneiazy6">
   </a>
-  <a href="https://github.com/nourhan-ahmedd">
-    <img src="https://github.com/nourhan-ahmedd.png" width="100px" alt="@nourhan-ahmedd">
-  </a>
 </div>
 
 ## Supervised By
